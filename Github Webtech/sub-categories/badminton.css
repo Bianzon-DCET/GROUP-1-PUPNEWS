@@ -1,0 +1,19 @@
+
+.inner-hero {
+    background-image: url(https://contents.spin.ph/image/image/2020/01/10/louie-ramirez-csb-mc-1578659380.jpg); /* Replace with your image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1x; /* Adjust height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Lora', serif;
+    text-align: center;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow effect */
+  }
+
+ 
+

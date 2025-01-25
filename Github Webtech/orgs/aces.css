@@ -1,0 +1,19 @@
+
+.inner-hero {
+    background-image: url(https://scontent.fmnl16-1.fna.fbcdn.net/v/t39.30808-6/415766643_767583712080314_2352616322753402776_n.png?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGpYomtjc6EI5ZmnruykylZSUulQppV_2hJS6VCmlX_aIqnl3Ino3ZLudyaFw9jMAdZ8N1ZzuBgkOXji1xvl-ej&_nc_ohc=W0_16wVbEgoQ7kNvgEpUWGk&_nc_zt=23&_nc_ht=scontent.fmnl16-1.fna&_nc_gid=AbUck18CL6FwyJsWaBZG1Q5&oh=00_AYAgeSKqKECLwLhaRXtWeOjWA3AfSSbR53dVfTrouRU0_Q&oe=67996300); /* Replace with your image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 1x; /* Adjust height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Lora', serif;
+    text-align: center;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow effect */
+  }
+
+ 
+

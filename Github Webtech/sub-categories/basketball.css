@@ -1,0 +1,19 @@
+
+  .inner-hero {
+    background-image: url(https://images.gmanews.tv/webpics/2022/03/NCAA_History_Scottie_Thompson_UPHSD_2022_03_24_19_22_24.jpg); /* Replace with your image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1x; /* Adjust height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Lora', serif;
+    text-align: center;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow effect */
+  }
+
+ 
+
